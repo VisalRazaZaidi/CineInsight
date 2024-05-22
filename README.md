@@ -16,5 +16,6 @@ Welcome to CineInsight, your ultimate movie companion app. CineInsight provides 
     
 ## Screenshots
 
-![App Screenshot](https://ibb.co/sJ9SM0m)
+![App Screenshot]
+![Movie-App](https://github.com/VisalRazaZaidi/CineInsight/assets/90027818/5eaf1063-8ca4-45b3-a6aa-7c94566fd71b)
 
