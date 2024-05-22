@@ -16,7 +16,7 @@ body {
 }
 
 header {
-  padding: 1rem;
+  padding: 10px;
   display: flex;
   justify-content: flex-end;
   background-color: var(--secondary-color);
@@ -34,7 +34,7 @@ header {
 }
 
 .search::placeholder {
-  color: #7378c5;
+  color: white;
 }
 
 .search:focus {
